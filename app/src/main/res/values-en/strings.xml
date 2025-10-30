@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="hello">Hello! 👋🏻</string>
+    <string name="name">My name is Muriel Zounar</string>
+    <string name="practice">and I created this app to practice</string>
+    <string name="development">Android development with Kotlin.</string>
+</resources>

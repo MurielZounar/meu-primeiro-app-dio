@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="hello">Olá! 👋🏻</string>
+    <string name="name">Meu nome é Muriel Zounar</string>
+    <string name="practice">e criei este app para praticar o</string>
+    <string name="development">desenvolvimento Android com Kotlin.</string>
+</resources>
